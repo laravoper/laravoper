@@ -32,8 +32,8 @@ You can reach me at [success.drame@gmail.com](mailto:success.drame@gmail.com) or
 - He/Him
 
 ### 🎈 Fun Facts:
-I once coded a full-stack app during a hackathon in under 24 hours... with only one cup of coffee! ☕️🚀
-I once configured a VPN while skydiving! (Okay, maybe I was just dreaming of it… but I sure love a challenge! 😄)
+- I once coded a full-stack app during a hackathon in under 24 hours... with only one cup of coffee! ☕️🚀
+- I once configured a VPN while skydiving! (Okay, maybe I was just dreaming of it… but I sure love a challenge! 😄)
 
 ---
 
